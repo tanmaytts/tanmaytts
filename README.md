@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Tanmay's Profile Banner](https://raw.githubusercontent.com/tanmaytts/tanmaytts/main/Final_gif.gif)
 <!--
 **tanmaytts/tanmaytts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
